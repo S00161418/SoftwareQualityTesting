@@ -1,0 +1,5 @@
+C:\Users\Colin\Desktop\SofTesting\SoftwareQuality\SoftwareQuality\bin\Debug\SoftwareQuality.dll
+C:\Users\Colin\Desktop\SofTesting\SoftwareQuality\SoftwareQuality\bin\Debug\SoftwareQuality.pdb
+C:\Users\Colin\Desktop\SofTesting\SoftwareQuality\SoftwareQuality\obj\Debug\SoftwareQuality.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Desktop\SofTesting\SoftwareQuality\SoftwareQuality\obj\Debug\SoftwareQuality.dll
+C:\Users\Colin\Desktop\SofTesting\SoftwareQuality\SoftwareQuality\obj\Debug\SoftwareQuality.pdb
