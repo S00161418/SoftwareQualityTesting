@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QTesting
 {
-    class Premium
+    public class Premium
     {
         public float CalculatePremium(int age, string gender)
         {
