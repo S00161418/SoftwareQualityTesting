@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTesting", "QTesting\QTesti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTesting.Tests", "QTesting.Tests\QTesting.Tests.csproj", "{57DDA8E4-AB2F-4F45-95DF-4509EF80537E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{BC3C49EA-88A1-4728-A126-EC68BFA5F332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{57DDA8E4-AB2F-4F45-95DF-4509EF80537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57DDA8E4-AB2F-4F45-95DF-4509EF80537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57DDA8E4-AB2F-4F45-95DF-4509EF80537E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3C49EA-88A1-4728-A126-EC68BFA5F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3C49EA-88A1-4728-A126-EC68BFA5F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3C49EA-88A1-4728-A126-EC68BFA5F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3C49EA-88A1-4728-A126-EC68BFA5F332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
