@@ -30,6 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="fit">
+      <HintPath>..\..\..\fit\fit.dll</HintPath>
+    </Reference>
+    <Reference Include="fitSharp">
+      <HintPath>..\..\..\fit\fitSharp.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
