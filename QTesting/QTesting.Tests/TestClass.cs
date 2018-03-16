@@ -47,7 +47,7 @@ namespace QTesting.Tests
         {
 
             float expectedResult = p1.CalculatePremium(31, "female");
-            Assert.That(expectedResult, Is.EqualTo(2.5));
+            Assert.That(expectedResult, Is.EqualTo(3.5));
         }
 
         [Test]
@@ -79,7 +79,7 @@ namespace QTesting.Tests
         {
 
             float expectedResult = p1.CalculatePremium(50, "male");
-            Assert.That(expectedResult, Is.EqualTo(2.5));
+            Assert.That(expectedResult, Is.EqualTo(3.5));
         }
 
         [Test]
