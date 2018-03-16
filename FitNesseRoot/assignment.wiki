@@ -1,0 +1,19 @@
+---
+Help: QualityTesting
+Test
+---
+!define COMMAND_PATTERN {%m -r fitnesse.fitserver.FitServer,fit\fit.dll
+%p}
+!define TEST_RUNNER {fit\Runner.exe}
+!path C:\Users\Colin\Desktop\SoftwareQualityTesting\QTesting\QTesting\bin\QTesting.dll
+
+
+
+|QTesting.Premium  |
+|age|gender|premium|
+|15 |female|0.0    |
+|25 |female|5.0    |
+|50 |fmeale|1.75   |
+|15 |male  |0.0    |
+|25 |male  |6.0    |
+|50 |male  |2.5    |
